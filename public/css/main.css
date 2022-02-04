@@ -59,7 +59,7 @@ body {
   position: absolute;
   width: 100%;
   height: 100%;
-  background: #373737;
+  background: #01532a;
   -webkit-transform-origin: left;
           transform-origin: left;
   -webkit-transform: rotateY(91deg) translateX(-50px);
@@ -67,12 +67,12 @@ body {
 }
 
 .container .text:last-child::before {
-  background: #29ab3c;
+  background: #573afb;
 }
 
 .container .text:last-child span {
-  background: -webkit-gradient(linear, left top, left bottom, from(#29c040), to(#32ed4e));
-  background: linear-gradient(#29c040, #32ed4e);
+  background: -webkit-gradient(linear, left top, left bottom, from(#4325ec), to(#6b52f8));
+  background: linear-gradient(#4325ec, #6b52f8);
   color: #373737;
 }
 
@@ -82,8 +82,8 @@ body {
   left: 0;
   width: 100%;
   height: 100%;
-  background: -webkit-gradient(linear, left top, left bottom, from(#434343), to(#535353));
-  background: linear-gradient(#434343, #535353);
+  background: -webkit-gradient(linear, left top, left bottom, from(#434343), to(#169957));
+  background: linear-gradient(#434343, #169957);
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
